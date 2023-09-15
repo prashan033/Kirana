@@ -1,0 +1,37 @@
+////// install pekages //////
+
+ npm i axios
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
+npm install @mui/styles --force
+npm install --save sweetalert2
+npm install @material-ui/core
+npm install @material-table/core --force
+npm i react-router-dom --force
+npm i redux --force
+npm i react-redux --force
+npm install --save material-ui-dropzone --force
+npm i react-razorpay
+npm i react-slick
+npm install slick-carousel --force
+
+
+/////////// Paste link in { public/index.html } ////
+
+
+For mui Icons => {
+
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+/>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+
+}
+
+=============REDUX======
+npm i react-router-dom
+npm i redux
+npm i reaxt-redux
